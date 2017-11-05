@@ -1,0 +1,42 @@
+h1 {
+  font-size: 16px;
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 24px;
+  font-family: 'Lora', serif;
+  font-weight: 700;
+}
+
+li { 
+  font-size: 16px;
+}
+
+.main {
+  height: 100vh;
+}
+
+.menu {
+  background-color: #800000;
+  border-right: 1px solid black;
+  display: block;
+  height: 100%;
+  color: white;
+  padding: 1em;
+}
+
+.menu h1, .menu h2, .menu p {
+  font-weight: 900;
+}
+
+.content {
+  padding: 2em;
+}
+
+
+
