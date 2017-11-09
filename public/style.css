@@ -38,5 +38,10 @@ li {
   padding: 2em;
 }
 
+.content .info p {
+  display: block;
+  max-width: 200px;
+}
+
 
 
